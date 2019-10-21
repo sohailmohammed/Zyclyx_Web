@@ -1,6 +1,19 @@
 .Footer .Location{
     font-family: ;
 }
+.pointer-Hyd{
+    position: absolute;
+    left: 212px;
+    bottom: 85px;
+    font-size: 30px;
+}
+.pointer-ksa{
+    position: absolute;
+    left: 185px;
+    bottom: 95px;
+    font-size: 20px;
+}
+
 .f-links a{
     font-size: 16px;
     text-decoration: none;
